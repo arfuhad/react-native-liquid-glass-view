@@ -9,9 +9,11 @@ Cross-platform liquid glass effect for React Native. Brings Apple's liquid glass
 ## Preview
 
 <p align="center">
-  <img src="./ios-gif.gif" alt="iOS Demo" width="300" />
-  <img src="./android-gif.gif" alt="Android Demo" width="300" />
+  <img src="https://raw.githubusercontent.com/arfuhad/liquid-glass-react-native/main/ios-gif.gif" alt="iOS Demo" width="300" />
+  <img src="https://raw.githubusercontent.com/arfuhad/liquid-glass-react-native/main/android-gif.gif" alt="Android Demo" width="300" />
 </p>
+
+> See the full [example app](./example/App.tsx) for interactive demos of all features.
 
 ## Features
 
